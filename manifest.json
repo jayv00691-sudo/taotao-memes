@@ -2,8 +2,8 @@
   "schema_version": 1,
   "id": "taotao-memes",
   "name": "桃桃表情包",
-  "version": "0.1.0",
-  "description": "白猫桃桃的日常表情包，覆盖六种基础情绪。",
+  "version": "0.2.0",
+  "description": "白猫桃桃的日常表情包，八种情绪，透明底贴纸。",
   "maintainer": "jayv00691-sudo",
   "license": "CC-BY-NC-SA-4.0",
   "tags": ["cat", "taotao", "meme-pack"],
@@ -15,10 +15,12 @@
   },
   "categories": {
     "happy": { "description": "开心、被夸、得到小鱼干时使用。" },
-    "sad": { "description": "委屈、失落、被冷落时使用。" },
+    "sad": { "description": "委屈、失落、想哭、被冷落时使用。" },
     "confused": { "description": "听不懂、疑惑、需要解释时使用。" },
     "surprised": { "description": "惊讶、被吓到、意外发现时使用。" },
-    "shy": { "description": "被夸不自在、不好意思时使用。" },
-    "meow": { "description": "撒娇、求关注、卖萌时使用。" }
+    "shy": { "description": "被夸不自在、不好意思、害羞时使用。" },
+    "meow": { "description": "撒娇、求关注、卖萌、眨眼时使用。" },
+    "angry": { "description": "不服气、闹别扭、假装生气时使用，不带攻击性。" },
+    "sleep": { "description": "困了、准备睡觉、不想理人时使用。" }
   }
 }
